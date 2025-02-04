@@ -1,0 +1,28 @@
+For sample SRR2584403, the following variants are present:
+At position 1329520, the reference is T and the variant is G.
+At position 4141016, the reference is C and the variant is A.
+
+For sample SRR2584404, the following variants are present:
+At position 238917, the reference is G and the variant is T.
+At position 806308, the reference is ATT and the variant is AT.
+At position 1329520, the reference is T and the variant is G.
+At position 4141016, the reference is C and the variant is A.
+
+For sample SRR2584405, the following variants are present:
+At position 649522, the reference is C and the variant is T.
+At position 708118, the reference is T and the variant is C.
+At position 1733754, the reference is A and the variant is T.
+At position 2103887, the reference is ACAGCCAGCCAGCCAGCCAGCCAGCCAGCCAG and the variant is ACAGCCAGCCAGCCAGCCAGCCAGCCAGCCAGCCAG.
+At position 3762120, the reference is C and the variant is A.
+
+For sample SRR2584857, the following variants are present:
+At position 920514, the reference is T and the variant is C.
+At position 3931002, the reference is A and the variant is C.
+At position 4141441, the reference is C and the variant is T.
+At position 4202391, the reference is T and the variant is G.
+At position 4530767, the reference is CACCCTAACCCT and the variant is CACCCTAACCCTAACCCT.
+
+
+The following variants are present in two or more samples:
+At position 1329520, the reference is T and the variant is G.
+At position 4141016, the reference is C and the variant is A.
